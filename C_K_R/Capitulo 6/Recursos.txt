@@ -1,0 +1,80 @@
+Name: HTML/CSS
+Type: Lenguaje de programacion
+URL: https://html.spec.whatwg.org/ 
+
+Name: PHP
+Type: Lenguaje de programacion
+URL: https://www.php.net/
+
+Name: Java
+Type: Lenguaje de programacion
+URL: https://www.java.com/
+
+Name: Ruby
+Type: Lenguaje de programacion
+URL: https://www.ruby-lang.org/
+
+Name: JavaScript
+Type: Lenguaje de programacion
+URL: https://developer.mozilla.org/docs/Web/JavaScript
+
+Name: C#
+Type: Lenguaje de programacion
+URL: https://docs.microsoft.com/dotnet/csharp/
+
+Name: C++
+Type: Lenguaje de programacion
+URL: https://isocpp.org/
+
+Name: Bash/Shell
+Type: Lenguaje de programacion
+URL: https://www.gnu.org/software/bash/
+
+Name: C
+Type: Lenguaje de programacion
+URL: http://www.open-std.org/jtc1/sc22/wg14/
+
+Name: SQL
+Type: Lenguaje de programacion
+URL: https://www.iso.org/standard/76583.html
+
+Name: Go
+Type: Lenguaje de programacion
+URL : https://go.dev/
+
+Name: Rust
+Type: Lenguaje de programacion
+URL: https://www.rust-lang.org/
+
+Name: Dart
+Type: Lenguaje de programacion
+URL:https://dart.dev/
+
+Name: TypeScript
+Type: Lenguaje de programacion
+URL: https://www.typescriptlang.org/
+
+Name: Swift
+Type: Lenguaje de programacion
+UTL: https://www.swift.org/
+
+Name: Kotlin
+Type: Lenguaje de programacion
+URL: https://kotlinlang.org/
+
+Name: F#
+Type: Lenguaje de programacion
+URL: https://fsharp.org/
+
+Name: Clojure
+Type: Lenguaje de programacion
+URL: https://clojure.org/
+
+Name: Elixir
+Type: Lenguaje de programacion
+URL: https://elixir-lang.org/
+
+Name: Solidity
+Type: Lenguaje de programacion
+URL: https://soliditylang.org/HTML/CSS 
+
